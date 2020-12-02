@@ -1,0 +1,11 @@
+{
+    "name": "vzletit/learn",
+    "description": "example",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "munnharpa@gmail.com"
+        }
+    ],
+    "require": {}
+}
